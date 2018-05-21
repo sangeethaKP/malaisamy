@@ -32,14 +32,5 @@ Give examples  Installing A step by step series of examples that tell you have t
       <description>Yay this is the first post!</description>
     </item>
     
-    <item>
-      <title></title>
-      <link>https://sangeethakp.github.io/malaisamy/post/third_post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sangeethakp.github.io/malaisamy/post/third_post/</guid>
-      <description> NEW POST  FIRST SECOND  </description>
-    </item>
-    
   </channel>
 </rss>
